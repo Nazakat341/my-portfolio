@@ -1,33 +1,49 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "MERN Stack Developer",
+            "subtitle": "LEADconcept",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Integrated **2** new projects.",
+                "**1** project is complycore.",
+                "Worked on backend side using node and express. Its an multi client app . ",
+                "**2** project is Billbio.",
+                "Also working on node to bulid this app. Its an subscriptions platform. "
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "10/2023 – present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Junior MERN Stack Developer",
+            "subtitle": "Softtik Technologies",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new projects.",
+                "Nifty website using mern stack. Its purpuse was to selling and purchasing digital assets like NFTS",
+                "Write smart contracts using wax blockchain . This Plateform was used to earn money using NFTS for farming purpuse  "
+            ],
+            "dateText": "02/2023 – 10/2023"
+        },
+        {
+            "title": "MERN Stack Trainee",
+            "subtitle": "CodeNinja Inc",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Worked on Learning javaScript advanced concepts",
+                "Worked on Soft skills like team management ,communication and problem solving , learn jira softwear",
+                "At the end deliever a project tourism website"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "10/2022 – 01/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Web Developer",
+            "subtitle": "Virtual Soft",
+            "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed the official apps for the startup for both React and Node",
+                "Some Demo Projects for startup and contribute with team to work on Company project."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "08/2021 – 09/2021"
         }
     ]
 }
